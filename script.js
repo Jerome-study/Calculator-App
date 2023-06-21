@@ -268,3 +268,5 @@ if (textBox.value === Infinity) {
     restart()
     console.log('result is infinity')
 }
+
+console.log('js')
