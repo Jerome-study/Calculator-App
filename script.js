@@ -14,7 +14,7 @@ let equalKeypadClear = false
 let continuos = false
 let currentSymbol
 
-console.log('g')
+
 let equalCounter = false
 keyPads.forEach((keypad, index)=> {
     
