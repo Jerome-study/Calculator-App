@@ -269,4 +269,3 @@ if (textBox.value === Infinity) {
     console.log('result is infinity')
 }
 
-console.log('gs')
